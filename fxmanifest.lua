@@ -12,9 +12,9 @@ fx_version "bodacious"
 game "gta5"
 
 -- Define the resource metadata
-name "Better-ID"
+name "ESX-Better-ID"
 description "This is the exact same thing as RedRums except you can actually show it to people and it's free. Made w/ @NAT2K15 Development"
-author "Rocket Development & NAT2K15 Development"
+author "Rocket Development & NAT2K15 Development, Scared Donut for ESX modifcation"
 version "v1.0.0"
 
 

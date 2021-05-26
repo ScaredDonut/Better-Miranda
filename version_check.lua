@@ -23,7 +23,7 @@ Citizen.CreateThread(function()
 	end
 
 	function VersionCheckHTTPRequest()
-		PerformHttpRequest('https://raw.githubusercontent.com/Jordan2139/versions/master/betterid.json', VersionCheck, 'GET')
+		PerformHttpRequest('https://raw.githubusercontent.com/ScaredDonut/Better-Miranda/main/version.json', VersionCheck, 'GET')
 	end
 
 	function VersionCheck(err, response, headers)
